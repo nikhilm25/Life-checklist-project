@@ -1,0 +1,2 @@
+-bar for how many done
+-final checkbox when all are complete
